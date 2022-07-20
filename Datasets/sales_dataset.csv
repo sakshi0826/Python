@@ -1,0 +1,101 @@
+Transaction ID,Transaction Date,Price,Quantity,Product,City,Country
+T1001,17/06/2020 07:53,1539.24,38,Lomina,Jieyang,"China, People's Republic of"
+T1045,17/03/2020 04:26,3629.13,50,Tridesta,Jieyang,"China, People's Republic of"
+T1002,23/02/2020 09:52,22775.25,49,Wedicare,Nagpur,India
+T1030,15/08/2020 16:45,49812.34,9,Lomina,Nagpur,India
+T1003,12/02/2020 12:16,332034.09,44,Tridesta,Guwahati,India
+T1004,30/04/2020 02:06,86241.78,68,Lomina,Casablanca,Morocco
+T1005,20/11/2020 20:41,7407944.23,11,Wedicare,Cali,Colombia
+T1010,26/07/2020 05:55,25978432.65,24,Lomina,Cali,Colombia
+T1006,20/06/2020 02:12,4532902.61,107,Wedicare,Surabaya,Indonesia
+T1007,11/08/2020 10:29,5346.12,33,Lomina,Port Elizabeth,South Africa
+T1008,15/05/2020 04:48,223210.03,12,Samtan,Almaty,Kazakhstan
+T1009,03/06/2020 00:47,9843.76,48,Tridesta,Leon de los Aldama,Mexico
+T1011,29/01/2020 03:42,705.2,5,Lomina,Los Angeles,United States
+T1040,19/06/2020 08:40,276.52,67,Tridesta,Los Angeles,United States
+T1089,01/03/2020 08:59,213.51,13,Lomina,Los Angeles,United States
+T1012,29/07/2020 12:48,21136.53,38,Lomina,Hengyang,"China, People's Republic of"
+T1013,20/08/2020 20:00,75000.22,10,Lomina,Perm,Russia
+T1014,31/10/2020 22:02,5531619.14,12,Wedicare,Makassar,Indonesia
+T1015,20/08/2020 08:16,681901,10,Wedicare,Sanaa,Yemen
+T1047,20/02/2020 12:31,1667178.07,20,Lomina,Sanaa,Yemen
+T1016,13/09/2020 13:06,50838.87,12,Lomina,Chennai,India
+T1017,12/10/2020 00:06,330161.13,13,Wedicare,Delhi,India
+T1018,16/02/2020 10:17,2603.26,43,Lomina,Mecca,Saudi Arabia
+T1019,26/06/2020 08:31,400.75,148,Tridesta,San Francisco,United States
+T1020,30/04/2020 19:05,3180.26,19,Tridesta,Nova Iguacu,Brazil
+T1021,06/12/2020 23:35,5073.67,35,Tridesta,Weihai,"China, People's Republic of"
+T1022,11/07/2020 11:44,1325.32,11,Wedicare,Kuala Lumpur,Malaysia
+T1023,11/10/2020 06:47,239.23,12,Lomina,Jacksonville,United States
+T1027,21/04/2020 04:57,275.32,17,Wedicare,Jacksonville,United States
+T1100,11/10/2020 06:47,611.38,12,Lomina,Jacksonville,United States
+T1024,02/03/2020 08:01,9711.73,12,Wedicare,Sale,Morocco
+T1060,17/12/2020 01:01,18637.06,35,Lomina,Sale,Morocco
+T1025,22/04/2020 07:56,5473.75,19,Lomina,Jinjiang,"China, People's Republic of"
+T1026,19/04/2020 08:47,929.73,2,Samtan,Dallas,United States
+T1028,23/07/2020 08:27,618.75,1,Lomina,Sydney,Australia
+T1029,25/11/2020 20:39,1783.61,10,Lomina,Brisbane,Australia
+T1031,15/02/2020 18:58,2639.81,39,Lomina,Zhu Cheng City,"China, People's Republic of"
+T1088,20/03/2020 16:55,2156.11,11,Lomina,Zhu Cheng City,"China, People's Republic of"
+T1032,01/09/2020 05:25,5112.64,10,Lomina,Alexandria,Egypt
+T1043,24/03/2020 22:05,6454.61,21,Lomina,Alexandria,Egypt
+T1033,14/09/2020 01:06,186342.56,61,Tridesta,Ibadan,Nigeria
+T1034,01/10/2020 06:25,2518.03,13,Wedicare,Jeddah,Saudi Arabia
+T1035,28/04/2020 10:40,23467.29,1,Samtan,Marrakesh,Morocco
+T1036,17/07/2020 07:32,94352.6,16,Samtan,Rohini,India
+T1037,25/09/2020 04:16,8374.69,19,,Qiqihar,"China, People's Republic of"
+T1038,17/10/2020 04:27,200283.21,13,Lomina,Kabul,Afghanistan
+T1039,24/07/2020 15:09,8354.67,98,Tridesta,Malingao,Philippines
+T1041,30/09/2020 21:11,1709.86,3,Lomina,Paris,France
+T1091,26/10/2020 03:02,1709.86,74,Lomina,Paris,France
+T1042,28/04/2020 04:44,1371.63,109,Wedicare,Xi'an,"China, People's Republic of"
+T1044,08/09/2020 04:54,21905.74,24,Wedicare,Guadalajara,Mexico
+T1046,10/02/2020 04:32,20725695.15,62,Wedicare,Dar es Salaam,Tanzania
+T1051,16/04/2020 10:24,874777.92,2,Samtan,Dar es Salaam,Tanzania
+T1048,29/01/2020 07:15,6526.07,10,Lomina,Zhanjiang,"China, People's Republic of"
+T1049,18/10/2020 17:39,333.44,5,Samtan,San Diego,United States
+T1050,08/05/2020 07:56,13930.78,12,Wedicare,Taizhou,"China, People's Republic of"
+T1052,17/05/2020 08:21,9251,1,Samtan,Nanjing,"China, People's Republic of"
+T1053,23/09/2020 07:03,6620506.47,11,Lomina,Depok,Indonesia
+T1054,05/05/2020 09:59,56093.93,38,Lomina,Shanghai,"China, People's Republic of"
+T1055,01/07/2020 17:47,734.94,21,Tridesta,Philadelphia,United States
+T1056,19/07/2020 18:55,3769.76,2,Samtan,UEruemqi,"China, People's Republic of"
+T1057,11/12/2020 17:05,5668.88,59,Wedicare,Yantai,"China, People's Republic of"
+T1058,16/06/2020 16:17,13488549.98,7,Samtan,Isfahan,Iran
+T1059,19/09/2020 01:31,1620.66,11,Lomina,Dongguan,"China, People's Republic of"
+T1061,26/09/2020 15:05,992085.98,26,Lomina,Managua,Nicaragua
+T1062,05/07/2020 19:39,17476.59,1,Samtan,Monterrey,Mexico
+T1063,23/02/2020 03:31,41833.65,9,Lomina,Brasilia,Brazil
+T1064,08/12/2020 01:12,1383.52,76,Tridesta,Brasilia,Brazil
+T1065,23/03/2020 09:44,6524.76,12,Wedicare,Dongying,"China, People's Republic of"
+T1068,24/09/2020 01:13,2266.98,4,Samtan,Dongying,"China, People's Republic of"
+T1066,17/04/2020 23:27,247.17,1,Samtan,Dublin,Ireland
+T1067,07/04/2020 00:57,854.93,13,Lomina,Barcelona,Spain
+T1069,17/08/2020 05:39,1875.6,542,Tridesta,Tangshan,"China, People's Republic of"
+T1070,03/10/2020 06:42,141602.11,12,Wedicare,Soweto,South Africa
+T1071,02/11/2020 20:17,23152.7,26,Lomina,Samara,Russia
+T1072,31/12/2020 23:14,1035602.61,18,Lomina,Amritsar,India
+T1073,17/11/2020 17:33,31271.76,11,Lomina,Pretoria,South Africa
+T1074,04/02/2020 15:16,67146.5,19,Lomina,Mysore,India
+T1075,15/01/2020 08:17,1206607.57,28,Lomina,Kinshasa,Democratic Republic of the Congo
+T1076,19/07/2020 11:23,522428.83,37,Lomina,Goyang-si,South Korea
+T1077,09/12/2020 15:42,4236.49,101,Tridesta,Huaibei,"China, People's Republic of"
+T1078,23/11/2020 20:25,45600.45,6,Samtan,Qingyuan,"China, People's Republic of"
+T1079,02/09/2020 18:33,3247.1,11,Wedicare,Houston,United States
+T1080,29/12/2020 07:09,224.7,39,Tridesta,Brussels,Belgium
+T1081,02/08/2020 03:02,13220753.17,4,Samtan,Gwangju,South Korea
+T1082,15/06/2020 10:41,229670.32,1,Samtan,Davao,Philippines
+T1083,21/04/2020 08:50,487.91,25,Lomina,Fort Worth,United States
+T1084,04/12/2020 21:04,16682.8,22,Wedicare,Santa Cruz de la Sierra,Bolivia
+T1085,09/01/2020 01:11,5993.24,2,Samtan,Durban,South Africa
+T1086,14/06/2020 10:59,6804.44,9,Lomina,Ningbo,"China, People's Republic of"
+T1087,21/12/2020 13:32,3770.12,1,Samtan,Zhabei,"China, People's Republic of"
+T1090,12/08/2020 09:56,1942250.45,17,Lomina,Yerevan,Armenia
+T1092,23/05/2020 14:08,7167.41,490,Wedicare,Budta,Philippines
+T1098,28/08/2020 16:37,49232.92,20,Tridesta,Budta,Philippines
+T1093,07/09/2020 17:24,1810.24,11,Wedicare,Liverpool,United Kingdom
+T1094,16/08/2020 21:31,411.95,7,Samtan,Beirut,Lebanon
+T1095,15/09/2020 23:51,37229.86,11,Lomina,Lucknow,India
+T1096,19/03/2020 10:56,26424853.48,1,Samtan,Qom,Iran
+T1097,04/10/2020 05:48,386.73,1,Samtan,London,United Kingdom
+T1099,12/01/2020 05:54,950.69,1,Samtan,Columbus,United States
