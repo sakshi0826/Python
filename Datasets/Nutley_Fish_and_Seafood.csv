@@ -1,0 +1,18 @@
+Food,Food Type,Calories,Grams,Protein,Fat,Fiber,Carbs
+Clams,Seafood,kcal:65,g:15,12,1,0,2
+Cod,Seafood,kcal:157,g:33,28,5,0,0
+Crab meat,Seafood,kcal:78,g:17,14,2,0,1
+Flounder,insert_category_here,kcal:192,g:38,30,,0,0
+Haddock,Seafood,kcal:133,g:27,16,5,0,6
+Halibut,Seafood,kcal:176,g:34,26,8,0,0
+Herring,Seafood,kcal:205,g:35,22,13,0,0
+Lobster,Seafood,kcal:81,g:19,18,1,0,0
+Mackerel,Seafood,kcal:153,g:27,18,9,0,0
+Oyster stew,Seafood,kcal:130,g:25,19,6,0,0
+Salmon,Seafood,kcal:113,g:22,17,5,0,0
+Sardines,Seafood,kcal:169,g:331,22,9,0,0
+Scallops,Seafood,kcal:184,g:36,18,8,0,10
+Shad,Seafood,kcal:170,g:30,20,10,0,0
+Shrimp,Seafood,kcal:101,g:24,23,1,0,0
+Swordfish,Seafood,kcal:162,g:33,27,6,0,0
+Tuna,Seafood,kcal:163,g:32,25,7,0,0

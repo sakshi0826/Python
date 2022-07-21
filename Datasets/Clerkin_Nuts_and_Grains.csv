@@ -1,0 +1,33 @@
+Food,Food Type,Calories,Grams,Protein,Fat,Fiber,Carbs
+Bran flakes,Grains,kcal:140.4,g:35.1,3,0,0.1,32
+"Bread, cracked wheat",Grains,kcal:65.4,g:15.1,2,1,0.1,12
+Rye,Grains,kcal:65.4,g:15.1,2,1,0.1,12
+Rye whole-wheat,Grains,kcal:1452,g:345.5,48,14,67.5,216
+Rye whole-wheat slice,Grains,kcal:62.24,g:14.31,2,1,0.31,11
+Corn bread ground meal,Grains,kcal:109.2,g:22.3,3,4,0.3,15
+Corn grits cooked,Grains,kcal:140.8,g:35.2,8,0,0.2,27
+Corn meal,Grains,kcal:374.4,g:88.6,9,4,1.6,74
+Farina,Grains,kcal:132,g:33,3,0,8,-22
+Flour,Grains,kcal:497.6,g:96.9,39,22,2.9,33
+Wheat (all purpose),Grains,kcal:394.2,g:97.3,12,1,0.3,84
+Wheat (whole),Grains,kcal:397.2,g:96.8,13,2,2.8,79
+Oatmeal,Grains,kcal:169.4,g:38.6,5,3,4.6,26
+Rice,Grains,kcal:707.8,g:173.2,15,3,1.2,154
+Rice flakes,Grains,kcal:112.4,g:28.1,2,0,0.1,26
+Rice polish,Grains,kcal:194.8,g:41.2,6,6,1.2,28
+Wheat germ,Grains,kcal:277,g:60.5,17,-7,2.5,34
+Wheat-germ cereal toasted,Grains,kcal:297,g:65.5,20,7,2.5,36
+Wheat meal cereal unrefined,Grains,kcal:127.8,g:30.7,4,1,0.7,25
+"Wheat, cooked",Grains,kcal:214.6,g:52.4,12,1,4.4,35
+Almonds,Nuts,kcal:453.2,g:65.8,13,38,1.8,13
+roasted and salted,Nuts,kcal:471.2,g:67.8,13,40,1.8,13
+Brazil nuts,Nuts,kcal:499,g:66,10,47,2,7
+Cashews,Nuts,kcal:419.6,g:64.9,12,32,0.9,20
+coconut sweetened,Nuts,kcal:296,g:49,1,20,2,26
+Peanut butter,Nuts,kcal:312.6,g:46.9,12,25,0.9,9
+"Peanut butter, natural",Nuts,kcal:303.6,g:45.9,13,24,0.9,8
+Peanuts,Nuts,kcal:317.8,g:48.2,13,25,1.2,9
+Pecans,Nuts,kcal:367.4,g:48.1,5,35,1.1,7
+Sesame seeds,Nuts,kcal:304.4,g:46.1,9,24,3.1,10
+Sunflower seeds,Nuts,kcal:329.6,g:49.9,12,26,1.9,10
+Walnuts,Nuts,kcal:352,g:48,7,32,1,8

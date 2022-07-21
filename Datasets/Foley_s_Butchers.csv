@@ -1,0 +1,29 @@
+Food,Food Type,Calories,Grams,Protein,Fat,Fiber,Carbs
+Salt pork,Meat & Poultry,kcal:507,g:58,3,55,0,0
+Bacon,Meat & Poultry,kcal:92,g:13,4,8,0,1
+Beef,Meat & Poultry,kcal:236,g:39,23,16,0,0
+Hamburger,Meat & Poultry,kcal:237,g:38,21,17,0,0
+Ground lean,Meat & Poultry,kcal:186,g:34,24,10,0,0
+Roast beef,Meat & Poultry,kcal:388,g:52,16,360,0,0
+Steak,Meat & Poultry,kcal:323,g:47,20,27,0,0
+"Steak, lean, as round",Meat & Poultry,kcal:204,g:36,24,12,0,0
+Corned beef,Meat & Poultry,kcal:178,g:32,22,,0,0
+Corned beef hash canned,Meat & Poultry,kcal:144,g:26,12,8,0,6
+Corned beef hash Dried,Meat & Poultry,kcal:112,g:23,19,4,0,0
+chicken,Meat & Poultry,kcal:173,g:32,23,9,0,0
+"Fried, breast or leg and thigh chicken",Meat & Poultry,kcal:235,g:40,25,15,0,0
+Roasted chicken,Meat & Poultry,kcal:280,g:45,25,20,0,0
+"Chicken livers, fried",Mreat & Poultry,kcal:223.2,g:38.3,22,14,0,2.3
+"Duck, domestic",Meat & Poultry,kcal:316,g:44,16,28,0,0
+"Lamb, chop, broiled",Meat & Poultry,kcal:411,g:59,24,35,0,0
+Leg roasted,Meat & Poultry,kcal:206,g:304,20,14,0,0
+"Shoulder, braised",Meat & Poultry,kcal:279,g:41,18,23,0,0
+"Pork, chop, 1 thick",Meat & Poultry,kcal:253,g:37,16,21,0,0
+Ham pan-broiled,Meat & Poultry,kcal:242,g:38,16,22,0,0
+Ham,Meat & Poultry,kcal:169,g:26,13,13,0,0
+"Ham, canned, spiced",Meat & Poultry,kcal:162,g:23,8,14,0,1
+Pork roast,Meat & Poultry,kcal:300,g:45,21,24,0,0
+Pork sausage,Meat & Poultry,kcal:468,g:62,18,44,0,0
+Turkey,Meat & Poultry,kcal:243,g:42,27,15,0,0
+Veal,Meat & Poultry,kcal:173,g:32,23,9,0,0
+Roast,Meat & Poultry,kcal:178,g:27,13,14,0,0

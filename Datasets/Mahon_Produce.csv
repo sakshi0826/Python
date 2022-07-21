@@ -1,0 +1,131 @@
+Food,Food Type,Calories,Grams,Protein,Fat,Fiber,Carbs
+Artichoke,Vegetables,kcal:56,g:14,2,0,2,10
+Asparagus,Vegetables,kcal:18,g:4.5,1,0,0.5,3
+Beans,Vegetables,kcal:31.2,g:7.8,1,0,0.8,6
+Lima,Vegetables,kcal:140,g:35,8,0,3,24
+"Lima, dry, cooked",Vegetables,kcal:264,g:66,16,0,2,48
+"Navy, baked with pork",Vegetables,kcal:254,g:56,11,6,2,37
+Red kidney,Vegetables,kcal:247,g:60.5,15,1,,42
+Bean sprouts,Vegetables,kcal:17.2,g:4.3,1,0,0.3,3
+Beet greens,Vegetables,kcal:37.6,g:9.4,2,0,1.4,6
+Beetroots,Vegetables,kcal:51.2,g:12.8,12,0,0,0.8
+Broccoli,Vegetables,kcal:59.6,g:14.9,5,0,1.9,8
+Brussels sprouts,Vegetables,kcal:78.8,g:19.7,6,0,1.7,12
+Sauerkraut,Vegetables,kcal:36.8,g:9.2,1,0,1.2,7
+Steamed cabbage,Vegetables,kcal:50,g:12.3,2,0,1.5,9
+Carrots,Vegetables,kcal:47.6,g:11.9,1,0,0.9,10
+"Raw, grated",Vegetables,kcal:48.8,g:12.2,1,0,1.2,10
+"Strips, from raw",Vegetables,kcal:22,g:5.5,0,0,0.5,5
+Cauliflower,Vegetables,kcal:40,g:10,3,0,1,6
+Celery,Vegetables,kcal:24,g:6,1,0,1,4
+Stalk raw,Vegetables,kcal:9.2,g:2.3,1,0,0.3,1
+Chard steamed,Vegetables,kcal:41.6,g:10.4,2,0,1.4,7
+Collards,Vegetables,kcal:60,g:15,5,0,2,-8
+Corn,Vegetables,kcal:108.2,g:25.8,3,1,0.8,21
+cooked or canned,Vegetables,kcal:190.4,g:47.6,5,0,1.6,41
+Cucumbers,Vegetables,kcal:4.8,g:1.2,0,,0.2,1
+Dandelion greens,Vegetables,kcal:105.8,g:25.2,5,1,3.2,16
+Eggplant,Vegetables,kcal:48,g:12,2,0,1,9
+Eggplant,Vegetables,kcal:48,g:12,2,0,1,9
+Eggplant,Vegetables,kcal:48,g:12,2,0,1,9
+Eggplant,Vegetables,kcal:48,g:12,2,0,1,9
+Endive,Vegetables,kcal:14.4,g:3.6,1,0,0.6,2
+Kale,Vegetables,kcal:60.6,g:13.9,4,1,0.9,8
+Kohlrabi,Vegetables,kcal:50,g:12.5,2,0,1.5,
+"Lambs quarters, steamed",Vegetables,kcal:60.8,g:15.2,5,0,3.2,7
+Lentils,Vegetables,kcal:221.6,g:55.4,15,0,2.4,38
+Lettuce,Vegetables,kcal:14,g:3.5,1,0,0.5,2
+Iceberg,Vegetables,kcal:14,g:3.5,0,0,0.5,3
+Mushrooms canned,Vegetables,kcal:24,g:6,2,0,0,4
+Mustard greens,Vegetables,kcal:40.8,g:10.2,3,0,1.2,6
+Okra,Vegetables,kcal:36,g:9,1,0,1,7
+Onions,Vegetables,kcal:86.4,g:21.6,2,0,1.6,18
+"Raw, green",Vegetables,kcal:24,g:6,0,0,1,5
+Parsley,Vegetables,kcal:0,g:0,0,0,0,0
+Parsnips,Vegetables,kcal:117,g:28,2,1,3,22
+Peas,Vegetables,kcal:64.4,g:16.1,3,0,0.1,13
+"Fresh, steamed peas",Vegetables,kcal:76.8,g:19.2,5,0,2.2,12
+Frozen peas,Vegetables,kcal:75.2,g:18.8,5,0,1.8,12
+Split cooked peas,Vegetables,kcal:117.6,g:29.4,8,0,0.4,21
+heated peas,Vegetables,kcal:56,g:14,3,0,1,10
+Peppers canned,Vegetables,kcal:8,g:2,0,0,0,2
+"Peppers Raw, green, sweet",Vegetables,kcal:33.6,g:8.4,1,0,1.4,6
+Peppers with beef and crumbs,Vegetables,kcal:257,g:53,,9,1,24
+"Potatoes, baked",Vegetables,kcal:98,g:24.5,2,0,0.5,22
+French-fried,Vegetables,kcal:140.6,g:26.4,-1,7,0.4,20
+Potatoes Mashed with milk and butter,Vegetables,kcal:238.8,g:44.7,4,12,0.7,28
+"Potatoes, pan-tried",Vegetables,kcal:275.6,g:51.4,4,14,0.4,33
+Scalloped with cheese potatoes,Vegetables,kcal:153.6,g:28.4,6,8,0.4,14
+Steamed potatoes before peeling,Vegetables,kcal:85.6,g:21.4,2,0,0.4,19
+Potato chips,Vegetables,kcal:107,g:18,1,7,0,10
+Radishes,Vegetables,kcal:9.2,g:2.3,0,0,0.3,2
+Rutabagas,Vegetables,kcal:37.6,g:9.4,0,0,1.4,8
+Soybeans,Vegetables,kcal:279.8,g:56.2,22,11,3.2,20
+Spinach,Vegetables,kcal:28,g:7,3,0,1,3
+Squash,Vegetables,kcal:38.4,g:9.6,1,0,0.6,8
+"Winter, mashed",Vegetables,kcal:118.4,g:29.6,4,0,2.6,23
+Sweet potatoes,Vegetables,kcal:165,g:40,2,1,1,36
+Candied,Vegetables,kcal:388,g:89.5,2,6,1.5,80
+Tomatoes,Vegetables,kcal:48,g:12,2,0,1,9
+Tomato juice,Vegetables,kcal:50.4,g:12.6,2,0,0.6,10
+Tomato catsup,Vegetables,kcal:16,g:4,0,0,0,4
+Turnip greens,Vegetables,kcal:64.2,g:14.8,4,1,1.8,8
+"Turnips, steamed",Vegetables,kcal:47.2,g:11.8,1,0,1.8,9
+"Watercress stems, raw",Vegetables,kcal:9.2,g:2.3,1,0,0.3,1
+Apple juice canned,Fruit,kcal:136,g:34,0,0,0,34
+Apple vinegar,Fruits,kcal:12,g:3,0,0,0,3
+"Apples, raw",Fruits,kcal:76,g:19,0,0,1,18
+Stewed or canned,Fruits,kcal:112,g:28,0,0,2,26
+Apricots,Fruits,kcal:240,g:60,2,0,1,57
+"Dried, uncooked",Fruits,kcal:220,g:55,4,0,1,50
+Fresh,Fruits,kcal:62.8,g:15.7,1,0,0.7,14
+"Nectar, or juice",Fruits,kcal:156,g:39,1,0,2,36
+Avocado,Fruits,kcal:201.2,g:27.8,2,18,1.8,6
+Banana,Fruits,kcal:99.6,g:24.9,1,0,0.9,23
+Blackberries,Fruits,kcal:119.4,g:28.6,2,1,6.6,19
+Blueberries,Fruits,kcal:272,g:68,1,0,2,65
+Cantaloupe,Fruits,kcal:48.8,g:12.2,1,0,2.2,9
+Cherries,Fruits,kcal:129,g:31,2,1,2,26
+"Fresh, raw cherries",Fruits,kcal:67.2,g:16.8,1,0,0.8,15
+Cranberry sauce sweetened,Fruits,kcal:572.8,g:143.2,0,0,1.2,142
+Dates,Fruits,kcal:566.4,g:141.6,4,0,3.6,134
+Figs,Fruits,kcal:135.6,g:33.9,2,0,1.9,30
+"Fresh, raw figs",Fruits,kcal:100,g:25,2,0,1,22
+figs Canned with syrup ,Fruits,kcal:136,g:34,1,0,1,32
+"Fruit cocktail, canned",Fruits,kcal:206,g:51.5,1,0,0.5,50
+Grapefruit sections,Fruits,kcal:182,g:45.5,1,0,0.5,44
+"Grapefruit, fresh, 5"" diameter",Fruits,kcal:64,g:16,1,0,1,14
+Grapefruit juice,Fruits,kcal:104,g:26,1,0,1,24
+Grapes,Fruits,kcal:71.2,g:17.8,1,0,0.8,16
+"European, as Muscat, Tokay",Fruits,kcal:110.8,g:27.7,1,0,0.7,26
+Grape juice,Fruits,kcal:172,g:43,1,0,0,42
+Lemon juice,Fruits,kcal:40,g:10,0,0,0,10
+Lemonade concentratefrozen,Fruits,kcal:448,g:112,0,0,0,112
+Limeade concentrate frozen,Fruits,kcal:432,g:108,0,0,0,108
+Olives large,Fruits,kcal:109.2,g:14.8,1,10,0.8,3
+OlivesRipe,Fruits,kcal:129,g:16,1,13,1,1
+"Oranges 3"" diameter",Fruits,kcal:76,g:19,2,0,1,16
+Orange juice,Fruits,kcal:108.8,g:27.2,2,0,0.2,25
+Frozen ,Fruits,kcal:321.6,g:80.4,2,0,0.4,78
+Papaya,Fruits,kcal:83.2,g:20.8,1,0,1.8,18
+Peaches,Fruits,kcal:216,g:54,1,0,1,52
+"Fresh, raw peaches",Fruits,kcal:46.4,g:11.6,1,0,0.6,10
+Pears,Fruits,kcal:212,g:53,1,0,2,50
+"Raw, 3 by 2V",Fruits,kcal:121,g:29,1,1,2,25
+Persimmons,Fruits,kcal:92,g:23,1,0,2,20
+Pineapple,Fruits,kcal:105.6,g:26.4,0,0,0.4,26
+Pineapple Crushed,Fruits,kcal:226.8,g:56.7,1,0,0.7,55
+"Raw, diced",Fruits,kcal:82.4,g:20.6,1,0,0.6,19
+Pineapple juice,Fruits,kcal:132.8,g:33.2,1,0,0.2,32
+Plums,Fruits,kcal:206.8,g:51.7,1,0,0.7,50
+"Raw, 2"" diameter",Fruits,kcal:28.8,g:7.2,0,0,0.2,7
+Prunes,Fruits,kcal:348.2,g:85.8,3,1,0.8,81
+Prune juice,Fruits,kcal:186.8,g:46.7,1,0,0.7,45
+Raisins,Fruits,kcal:338.8,g:84.7,2,0,0.7,82
+Raspberries,Fruits,kcal:108,g:27,0,0,2,25
+"Raw, red",Fruits,kcal:76,g:19,0,0,5,14
+Rhubarb sweetened,Fruits,kcal:403.6,g:100.9,1,0,1.9,98
+Strawberries,Fruits,kcal:249.2,g:62.3,1,0,1.3,60
+Raw,Fruits,kcal:55.6,g:13.9,0,0,1.9,12
+Tangerines,Fruits,kcal:48,g:12,1,0,1,10
+Watermelon,Fruits,kcal:147.4,g:35.6,2,1,3.6,29

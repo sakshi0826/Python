@@ -1,0 +1,20 @@
+Food,Food Type,Calories,Grams,Protein,Fat,Fiber,Carbs
+Cows' milk,Dairy,kcal:680,g:120,32,40,0,48
+Milk skim,Dairy,kcal:352,g:88,36,0,0,52
+Buttermilk,Dairy,kcal:133,g:27,9,5,0,13
+"Evaporated, undiluted",Dairy,kcal:340,g:60,16,20,0,24
+Fortified milk,Dairy,kcal:1215.6,g:251.4,89,42,1.4,119
+Powdered milk,Dairy,kcal:516,g:94,27,28,0,39
+"skim, instant",Dairy,kcal:288,g:72,,0,0,42
+"skim, non-instant",Dairy,kcal:292,g:73,-30,0,1,42
+Goats' milk,Dairy,kcal:166,g:29,8,10,0,11
+Skim. milk,Dairy,kcal:164,g:36,18,4,1,13
+Cornstarch,Dairy,kcal:286,g:59,9,10,0,40
+Ice milk,Dairy,kcal:254,g:51,9,10,0,32
+Cheese,Dairy,kcal:243,g:47,30,11,0,6
+uncreamed,Dairy,kcal:176,g:44,38,0,0,6
+Cheddar,Dairy,kcal:70,g:10,4,470,0,0
+"Cheddar, grated cup",Drairy,kcal:231,g:34,14,19,0,1
+Cream cheese,Dairy,kcal:111,g:14,2,11,0,1
+Roquefort type,Dairy,kcal:105,g:15,6,9,0,0
+Swiss,Dairy,kcal:100,g:15,7,8,0,0

@@ -1,0 +1,10 @@
+Food,Food Type,Calories,Grams,Protein,Fat,Fiber,Carbs
+Eggs raw,Eggs,kcal:156,g:24,12,12,0,0
+Eggs Scrambled or fried,Eggs,kcal:200,g:30,13,16,0,1
+Yolks,Eggs,kcal:114,g:16,6,10,0,0
+Hydrogenated cooking fat,Oils & Fats,kcal:900,g:100,0,100,0,0
+Lard,Oils & Fats,kcal:990,g:1100,0,110,0,0
+"Margarine, 2 pat or",Oils & Fats,kcal:99,g:11,0,11,0,0
+Corn oil,Oils & Fats,kcal:126,g:14,0,14,0,0
+Olive oil,Oil & Fats,kcal:126,g:14,0,14,0,0
+Safflower seed oil,Oils & Fats,kcal:126,g:14,0,14,0,0
